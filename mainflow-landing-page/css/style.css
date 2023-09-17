@@ -1,0 +1,57 @@
+
+body{
+  margin: 0 !important;
+  text-align: center !important;
+  font-family: papyrus,arial,fantasy !important;
+  color: rebeccapurple !important;
+  font-size: 45px !important;
+
+}
+.top-container{
+    background-color: #E4F9F5 !important;
+    position: relative !important;
+    padding-top: 1px !important;
+    padding-bottom: 10px !important;
+
+}
+h1{
+  margin: 50px auto 0 auto !important;
+  font-size: 5.625rem !important;
+  font-family: Sacramento,cursive !important;
+
+}
+h2{
+  font-family: papyrus,fantasy;
+  padding-top: : 10px;
+  margin: 50px auto 0 auto !important;
+  font-size:2.5 rem
+
+}
+.navbar
+{
+  padding-bottom: 4.5rem !important;
+}
+.navbar-brand
+{
+
+  font-size: 2.5rem !important;
+  font-weight: bold !important;
+  color: rebeccapurple !important ;
+
+}
+.nav-item
+{
+  padding: 0 18px !important;
+  color: rebeccapurple !important;
+}
+.nav-link
+{
+  font-size: 1.2rem !important;
+  font-family: "Montserrat-light" !important;
+  color :rebeccapurple !important;
+
+}
+.bottom-container{
+  background-color: #66BFBF !important;
+  padding: 10px 0 20px !important;
+}
